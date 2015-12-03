@@ -1,0 +1,12 @@
+{
+  "name": "formtest",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "Oliver Fehr",
+  "dependencies": {
+    "hapi": "^11.1.2",
+    "inert": "^3.2.0",
+    "path": "^0.12.7"
+  }
+}
